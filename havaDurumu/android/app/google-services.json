@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654536009267",
+    "project_id": "nenerede",
+    "storage_bucket": "nenerede.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654536009267:android:6b64c8c7af9c735e90e546",
+        "android_client_info": {
+          "package_name": "com.nenerede"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654536009267-uc5k5gi108dsr40127msmcf63l71nqnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIk5GKQSw--zPFyHODfrC_f2zY3R6d8WM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654536009267-uc5k5gi108dsr40127msmcf63l71nqnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
